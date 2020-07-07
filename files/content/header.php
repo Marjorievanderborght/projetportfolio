@@ -27,11 +27,6 @@
             <li class="nav-item">
                 <a class="nav-link" href="?p=contact">Contact</a>
             </li>
-            <li class="nav-item">
-                <a class="btn btn-light my-2 my-sm-0" href="?p=admin_crud">Admin</a>
-            </li>
-            </li>
         </ul>
-        <a class="btn btn-light my-2 my-sm-0" href="?p=logout">Se déconnecter</a>
-    </div>
+        <a class="btn btn-light my-2 my-sm-0" href="?p=admin_crud">Admin</a></div>
 </nav>

@@ -12,13 +12,25 @@ if (empty($_SESSION['username'])){
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <!-- MY CSS -->>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style2.css">
 </head>
 <body>
 <!--  MY HEADER -->
 <?php
 include "files/content/header.php";
 ?>
+<br>
+<br>
+<br>
+<div class="sucess">
+    <h1>Bienvenue Marjorie</h1>
+    <p>C'est votre espace admin</p>
+    <a class="btn btn-dark my-2"  href="?p=logout">Déconnexion</a>
 
+    <link rel="stylesheet" href="css/style.css">
+
+    </ul>
+</div>
 
 <div class="outer-div">
     <div class="inner-div">

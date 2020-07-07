@@ -1,6 +1,4 @@
-body {
-  background: #5B6783;
-}
+
 .box {
   border: 1px solid #c4c4c4;
   padding: 30px 25px 10px 25px;
@@ -61,11 +59,11 @@ h1.box-title {
 }
 .sucess{
 	text-align: center;
-	color: white;
+	color: black;
 }
 .sucess a {
 	text-decoration: none;
-	color: #58aef7;
+	color: black;
 }
 p.errorMessage {
     background-color: #e66262;
